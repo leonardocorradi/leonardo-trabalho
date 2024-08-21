@@ -15,7 +15,7 @@ let velocidadeYBolinha = 6;
 //variáveis da raquete
 let xRaquete = 5;
 let yRaquete = 150;
-let raqueteComprimento = 10;
+let raqueteComprimento = 10;https://leonardocorradi.github.io/leonardo-trabalho/
 let raqueteAltura = 90;
 
 //placar do jogo
