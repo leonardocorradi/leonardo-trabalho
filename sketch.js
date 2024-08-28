@@ -124,7 +124,3 @@ function marcaPonto() {
     pontosDoOponente += 3;
   }
 }
-
-
-
-
